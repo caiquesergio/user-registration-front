@@ -1,3 +1,6 @@
+## Framework and libs
+ - Vue 3
+ - Vuetify
 
 ## Project Setup
 
